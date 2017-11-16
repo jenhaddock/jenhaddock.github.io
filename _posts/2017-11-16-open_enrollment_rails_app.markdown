@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Open Enrollment Rails App"
-date:       2017-11-16 05:45:50 +0000
+date:       2017-11-16 00:45:51 -0500
 permalink:  open_enrollment_rails_app
 ---
 
