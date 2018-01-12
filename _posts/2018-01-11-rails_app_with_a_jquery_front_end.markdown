@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails App with a jQuery Front End"
-date:       2018-01-12 04:13:35 +0000
+date:       2018-01-11 23:13:35 -0500
 permalink:  rails_app_with_a_jquery_front_end
 ---
 
